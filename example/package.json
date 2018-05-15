@@ -1,0 +1,14 @@
+{
+  "name": "pipeline-selenium-example",
+  "version": "1.0.0",
+  "description": "Example selenium test",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dominic Harries <dharries@uk.ibm.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "jest": "^22.4.3",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
